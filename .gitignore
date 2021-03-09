@@ -2,3 +2,5 @@
 .DS_Store
 .DS_Stores/
 .DS_Store/
+node_modules/
+node_modules
