@@ -19,6 +19,7 @@ brew install watchman
 
 ## Ejecución:
 Puedes ejecutar este proyecto con ```yarn``` o con ```npm```:
+
 yarn:
 ```
 yarn start
